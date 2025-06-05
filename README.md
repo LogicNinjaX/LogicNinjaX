@@ -57,8 +57,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+
  <img src="https://media.giphy.com/media/MEiZ5h8lOkM7rwideE/giphy.gif?cid=ecf05e47b4s9b0m20bzgkde0a6v2122eyikcyeh21q2w243n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28"> &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  <img src="https://media.giphy.com/media/131tNuGktpXGhy/giphy.gif?cid=ecf05e47ndufjt7gtpm31hbsptg5fpoq5t1anpuvw96dzav9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28"> &emsp; Love to writing code and learning new features<br/><br/>
  <img src="https://media.giphy.com/media/N256GFy1u6M6Y/giphy.gif?cid=ecf05e47ndufjt7gtpm31hbsptg5fpoq5t1anpuvw96dzav9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28"> &emsp; Reach me anytime: mail.logicninjax@gmail.com<br/><br/>
